@@ -2,8 +2,16 @@
 
 [[Arxiv]](https://arxiv.org/abs/2501.16724) | [[Dataset]](https://drive.google.com/drive/folders/1hpPFYBcRx_ymnoSTP4VSW3UllGMIr4cO?usp=sharing)
 
+
+
 ### Authors
 Yoojin Jang*, Junsu Kim*, Hayeon Kim, Eun-ki Lee, Eun-sol Kim, Seungryul Baek, Jaejun Yoo (*Equal contributors)
+
+## B-RIGHT Examples
+We provide the example of the generated and crawled images with
+(verb, object) pairs after our augmented process.
+![B-RIGHT example](./asset/bright_example.png)
+
 
 
 ## Abstract
